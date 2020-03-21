@@ -1,0 +1,38 @@
+.Calcular
+{
+    display: block;
+    margin: 0 auto;
+    padding:  20px;
+    background-color: darkcyan;
+    width:  200px;
+    height: 300px;
+    border-radius: 30px;
+    
+}
+
+.Calcular td button
+{
+    display: block;
+    width: 40px;
+    height: 38px;
+    font-size: 10px;
+    border-radius: 30px;
+    
+    
+}
+
+
+#Resultado
+{
+display: block;
+text-align: center;
+font-size: 20px;
+margin-bottom: 30;
+width: 200px;
+height: 60px;
+line-height: 75px;
+background-color: white;
+border-radius: 10px;
+overflow-y: auto;
+
+}
